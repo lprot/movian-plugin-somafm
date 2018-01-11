@@ -1,0 +1,15 @@
+{
+	"description": "<p>SomaFM<p>Over 30 unique channels of listener-supported, commercial-free, underground/alternative radio broadcasting to the world. All music hand-picked by SomaFM's award-winning DJs and music directors.</p><p>For more information, visit <a href=\"http://somafm.com\">http://somafm.com</a>",
+	"author": "Henrik Andersson, lprot",
+	"homepage": "http://github.com/lprot/movian-plugin-somafm",
+	"title": "SomaFM",
+	"synopsis": "Over 30 unique channels of listener-supported, commercial-free, underground/alternative radio broadcasting to the world. All music hand-picked by SomaFM's award-winning DJs and music directors.",
+	"version": "0.4.2",
+	"file": "somafm.js",
+	"showtimeVersion": "4.8",
+	"type": "ecmascript",
+	"id": "somafm",
+	"icon": "somafm.png",
+	"category": "music",
+        "apiversion": 2
+}
